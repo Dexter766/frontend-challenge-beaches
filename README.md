@@ -8,3 +8,6 @@
 3. Hover Effects: Added hover effects to the beach list items to make them interactive and visually appealing.
 4. Responsive Design: Ensured the modal is responsive and looks good on various screen sizes.
 5. Interactivity: Made each beach title clickable to trigger the modal, displaying more information dynamically.
+
+ Output:
+ ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/osbl6qg3srsiy08ahwwl.jpeg)
